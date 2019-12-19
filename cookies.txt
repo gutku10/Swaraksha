@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.paypal.com	TRUE	/	FALSE	1999999999	AKDC	ccg11-origin-www-1.paypal.com
+www.paypal.com	TRUE	/	FALSE	1999999999	akavpau_ppsd	1576777755~id=4db78c09b6c29aa1c4ff40ff84847d6b
+.paypalobjects.com	TRUE	/	FALSE	1999999999	PYPF	CT-2
+
